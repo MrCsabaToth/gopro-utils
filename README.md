@@ -6,6 +6,8 @@ Examples of what can be achieved: https://goprotelemetryextractor.com/gallery
 
 User friendly and cross-platform tool for extracting the telemetry: https://goprotelemetryextractor.com/free
 
+Note: The GoPro HERO13 has GPS data with a different structure use some of the alternative tools listed on this readme to parse it.
+
 I forked stilldavid's project ( https://github.com/stilldavid/gopro-utils ) to achieve 3 things:
 
 - Export the data in csv format from /bin/gpmd2csv/gpmd2csv.go
